@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @juangon97
 - 👀 I’m interested in Finance, Mathematics & Coding
-- 🌱 I’m currently learning new skills on python.
+- 🌱 I’m currently learning new skills on python & C++
 - 📫 How to reach me: https://www.linkedin.com/in/juangon97/
